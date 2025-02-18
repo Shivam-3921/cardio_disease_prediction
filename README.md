@@ -18,7 +18,7 @@ The dataset used in this project contains a variety of features related to cardi
 
 ### Repository Structure
 
-- cardio_data/cardio.csv: Contains the cardiovascular disease dataset.
+- cardio_data/dataset.csv: Contains the cardiovascular disease dataset.
 
 - cardio_disease.ipynb: Jupyter Notebook detailing the full data exploration, preprocessing, and model development process.
 
